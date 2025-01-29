@@ -4,5 +4,5 @@
 | :---         |     :---:      |     :---:      |     :---:      |
 | 17.1.2025 | 2 | Ensimmäinen luento  | Kurssin suorittamisen tiedot  |
 | 21.1.2025 | 2 | Moduulien lukemista ja moduulikokeiden tekemistä  | Netacad kurssin kokeet läpi ja Itsin tehtävä tehty  |
-| 30.10.2024 | 2 | Kick-off lecture  | Lecture recording  |
-| 30.10.2024 | 2 | Kick-off lecture  | Lecture recording  |
+| 23.1.2025 | 1 | Online luento  | Luennon kuuntelemista  |
+| 29.1.2025 | 2 | Kick-off lecture  | Lecture recording  |
