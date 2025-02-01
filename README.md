@@ -7,3 +7,5 @@
 | 23.1.2025 | 1 | Online luento  | Luennon kuuntelemista  |
 | 30.1.2025 | 1,5 | Online luennon kuuntelu loppuun  | Oppimista ja PortSwiggerin käyttöön ottamista |
 | 31.1.2025 | 2 | Workshop luento  | Portswigger tehtävien tekemistä |
+| 31.1.2025 | 1 | Portswigger tehtäviä | SQLI labrojen tekemistä ja aiheen oppimista |
+| 1.1.2025 | |
