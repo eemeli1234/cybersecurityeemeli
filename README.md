@@ -9,3 +9,4 @@
 | 31.1.2025 | 2 | Workshop luento  | Portswigger tehtävien tekemistä |
 | 31.1.2025 | 1 | Portswigger tehtäviä | SQLI labrojen tekemistä ja aiheen oppimista |
 | 1.2.2025 | 1 | Portswigger tehtäviä ja teorian lukemista | Authentication osion lukemista ja labran suorittamista |
+| 9.2.2025 | 2,5 | Portswigger tehtäviä ja teoriaa | Authentication ja Access control osion tehtäviä + Tehtävän palautus |
