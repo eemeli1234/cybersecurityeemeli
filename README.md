@@ -11,4 +11,4 @@
 | 1.2.2025 | 1 | Portswigger tehtäviä ja teorian lukemista | Authentication osion lukemista ja labran suorittamista |
 | 9.2.2025 | 2,5 | Portswigger tehtäviä ja teoriaa | Authentication ja Access control osion tehtäviä + Tehtävän palautus |
 | 13.2.2025 | 1 | Luento 3 tallenne | Portswigger tehtävien kertausta |
-| 14.2.2025 | 1,5 | Luento 4 | Projektin aloittelua |
+| 14.2.2025 | 2 | Luento 4 | Projektin aloittelua |
