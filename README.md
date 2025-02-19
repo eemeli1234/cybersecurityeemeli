@@ -12,3 +12,4 @@
 | 9.2.2025 | 2,5 | Portswigger tehtäviä ja teoriaa | Authentication ja Access control osion tehtäviä + Tehtävän palautus |
 | 13.2.2025 | 1 | Luento 3 tallenne | Portswigger tehtävien kertausta |
 | 14.2.2025 | 2 | Luento 4 | Projektin aloittelua |
+| 19.2.2025 | 4 | Booking System Projectin Phase 1 tekemistä ja luentojen katselua | Asensin VM ja sinne Kalin ja Dockerin/Zaproxyn ja hyödynsin niitä haavoittuvuuksien löytämiseen |
