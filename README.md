@@ -14,3 +14,4 @@
 | 14.2.2025 | 2 | Luento 4 | Projektin aloittelua |
 | 19.2.2025 | 4 | Booking System Projectin Phase 1 tekemistä ja luentojen katselua | Asensin VM ja sinne Kalin ja Dockerin/Zaproxyn ja hyödynsin niitä haavoittuvuuksien löytämiseen |
 | 5.3.2025 | 3 | Booking System Projectin Phase 1 part 2 tekemistä ja luennon katsomista | Toisen penetraatiotestin suorittaminen |
+| 16.4.2025 | 1 | Materiaalin lukemista ja kertaamista | Mitä pitää suorittaa jotta saa kurssin läpi |
